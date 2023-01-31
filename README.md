@@ -1,3 +1,3 @@
-githib pages: 
+github pages: 
 
 antonovxx.github.io/example-HTML-academy
